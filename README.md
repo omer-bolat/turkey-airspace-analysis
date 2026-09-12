@@ -79,3 +79,6 @@ Data Science and Analytics Student, Atatürk Üniversitesi
 Bu proje sürecinde OpenSky'ın canlı API'sinde yaşanan bağlantı/kimlik doğrulama sorunları, farklı platformlar (Google Colab, Kaggle, VS Code) arası geçişler ve büyük veri işleme gibi gerçek dünya problemleriyle karşılaştım; her birini adım adım çözerek ilerledim.
 
 - LinkedIn: [linkedin.com/in/ömer-bolat](https://www.linkedin.com/in/ömer-bolat-604b1932b/)
+- GitHub: [https://github.com/omer-bolat](https://github.com/omer-bolat)
+- Kaggle: [https://www.kaggle.com/bolatomer](https://www.kaggle.com/bolatomer)
+
