@@ -68,8 +68,7 @@ Python, pandas, Matplotlib, Folium · Google Colab & VS Code (Jupyter) · OpenSk
 Some resources I consulted/drew on while building this project:
 
 - [OpenSky Network](https://opensky-network.org/) — the project's core data source
-- [thomasdubdub/opensky-traffic-viz](https://github.com/thomasdubdub/opensky-traffic-viz) — a similarly-scoped open-source project visualizing OpenSky data by country
-- [xoolive/traffic](https://github.com/xoolive/traffic) — a more comprehensive Python library for air traffic data analysis; a resource I plan to explore as I extend this project
+
 
 ## About
 
