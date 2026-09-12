@@ -68,8 +68,7 @@ Python, pandas, Matplotlib, Folium · Google Colab & VS Code (Jupyter) · OpenSk
 Bu projeyi geliştirirken faydalandığım/incelediğim bazı kaynaklar:
 
 - [OpenSky Network](https://opensky-network.org/) — projenin temel veri kaynağı
-- [thomasdubdub/opensky-traffic-viz](https://github.com/thomasdubdub/opensky-traffic-viz) — OpenSky verisiyle ülke bazlı uçuş görselleştirmesi yapan, benzer amaçlı bir açık kaynak proje
-- [xoolive/traffic](https://github.com/xoolive/traffic) — hava trafiği verisi analizi için daha kapsamlı bir Python kütüphanesi; ileride projeyi büyütmek için incelemeyi planladığım bir kaynak
+
 
 ## Hakkında
 
